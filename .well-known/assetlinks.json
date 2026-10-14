@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.whenzzz56_code.Runecrystal",
+        "sha256_cert_fingerprints": ["7A:EA:9A:4C:E7:2D:E0:3D:97:99:84:53:4B:33:EF:77:E9:CF:6B:48:8C:94:D4:D6:E5:EE:3A:60:30:CD:B4:3C"]
+      }
+    }]
